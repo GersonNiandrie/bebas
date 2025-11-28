@@ -1,6 +1,6 @@
 const USERNAME = 'Rafathar';
-const PASSWORD = 'superman123';
+console.log(USERNAME || !USERNAME)
 
 console.log(
-  `akun terbuat dengan USERNAME: ${USERNAME} dan PASSWORD: ${PASSWORD}`
+  `akun terbuat dengan USERNAME: ${USERNAME}`
 );
