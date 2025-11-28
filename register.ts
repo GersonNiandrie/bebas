@@ -1,6 +1,6 @@
-const username = 'Rafathar';
-const password = 'superman123';
+const USERNAME = 'Rafathar';
+const PASSWORD = 'superman123';
 
 console.log(
-  `akun terbuat dengan username: ${username} dan password: ${password}`
+  `akun terbuat dengan USERNAME: ${USERNAME} dan PASSWORD: ${PASSWORD}`
 );
